@@ -1,0 +1,16 @@
+Script started on Wed 05 Dec 2018 11:26:39 PM HST
+]0;kobyv@uhx02:~/HW10[?1034huhx02:/home/k/kobyv/HW10% ls
+Charizard.cpp  Charizard.h  Dragonite.cpp  Dragonite.h  Gengar.cpp  Gengar.h  main.cpp  Makefile  Pokemon.cpp  Pokemon.h  proof.txt
+]0;kobyv@uhx02:~/HW10uhx02:/home/k/kobyv/HW10% make
+g++ -ansi -pedantic-errors -Wall -c Pokemon.cpp
+g++ -ansi -pedantic-errors -Wall -c Charizard.cpp
+g++ -ansi -pedantic-errors -Wall -c main.cpp
+g++ -ansi -pedantic-errors -Wall -c Gengar.cpp
+g++ -ansi -pedantic-errors -Wall -c Dragonite.cpp
+g++ -o HW10 Pokemon.o Charizard.o main.o Gengar.o Dragonite.o
+]0;kobyv@uhx02:~/HW10uhx02:/home/k/kobyv/HW10% ls
+Charizard.cpp  Charizard.h  Charizard.o  Dragonite.cpp  Dragonite.h  Dragonite.o  Gengar.cpp  Gengar.h  Gengar.o  [0m[38;5;34mHW10[0m  main.cpp  main.o  Makefile  Pokemon.cpp  Pokemon.h  Pokemon.o  proof.txt
+]0;kobyv@uhx02:~/HW10uhx02:/home/k/kobyv/HW10% exit
+exit
+
+Script done on Wed 05 Dec 2018 11:26:51 PM HST

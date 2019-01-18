@@ -1,0 +1,35 @@
+Script started on Wed 05 Dec 2018 11:26:58 PM HST
+]0;kobyv@uhx02:~/HW10[?1034huhx02:/home/k/kobyv/HW10% ls
+Charizard.cpp  Charizard.h  Charizard.o  Dragonite.cpp  Dragonite.h  Dragonite.o  Gengar.cpp  Gengar.h  Gengar.o  [0m[38;5;34mHW10[0m  main.cpp  main.o  Makefile  output.txt  Pokemon.cpp  Pokemon.h  Pokemon.o  proof.txt
+]0;kobyv@uhx02:~/HW10uhx02:/home/k/kobyv/HW10% ./HW10
+We are now accessing the Vector: 
+The Pokemon's name: Charizard 
+The Pokemon's type: fire
+The Pokemon's weight: 199.5
+
+The Pokemon's name: Gengar 
+The Pokemon's type: Dark
+The Pokemon's weight: 89.3
+
+The Pokemon's name: Dragonite 
+The Pokemon's type: Dragon
+The Pokemon's weight: 463
+
+
+We are now accessing the Map:  
+The Pokemon's name: Charizard 
+The Pokemon's type: fire
+The Pokemon's weight: 199.5
+
+The Pokemon's name: Dragonite 
+The Pokemon's type: Dragon
+The Pokemon's weight: 463
+
+The Pokemon's name: Gengar 
+The Pokemon's type: Dark
+The Pokemon's weight: 89.3
+
+]0;kobyv@uhx02:~/HW10uhx02:/home/k/kobyv/HW10% exit
+exit
+
+Script done on Wed 05 Dec 2018 11:27:19 PM HST
